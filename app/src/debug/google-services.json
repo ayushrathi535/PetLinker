@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "17149477242",
+    "project_id": "petlinker-49cac",
+    "storage_bucket": "petlinker-49cac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17149477242:android:dc765074ab7bc21248d6c3",
+        "android_client_info": {
+          "package_name": "com.example.petlinker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPBvDMAJTH4-tg-MaAlBX96OJZFN9vCiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
